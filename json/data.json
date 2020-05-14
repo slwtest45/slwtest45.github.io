@@ -1,6 +1,7 @@
 {
 	"one": {
 		"name":"Slawa",
-		"age":22,
-		"gender":"man"}
+		"age":"22",
+		"gender":"man"
+	}
 }
