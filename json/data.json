@@ -1,9 +1,32 @@
 {
-    "one": [
-      {
+    "alex": {
+      "name":"Alex",
+      "age":21,
+      "gender":"man"
+    },
+    "slawa": {
       "name":"Slawa",
       "age":22,
       "gender":"man"
-      }
-    ]
+    },
+    "tamaz": {
+      "name":"Tamaz",
+      "age":20,
+      "gender":"man"
+    },
+    "jenya": {
+      "name":"Jenya",
+      "age":22,
+      "gender":"man"
+    },
+    "roma": {
+      "name":"Roma",
+      "age":21,
+      "gender":"man"
+    },
+    "kola": {
+      "name":"Kola",
+      "age":19,
+      "gender":"man"
+    },
 }
