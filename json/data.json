@@ -1,7 +1,9 @@
 {
-	"one": {
+	"one": [
+		{
 		"name":"Slawa",
-		"age":"22",
+		"age":22,
 		"gender":"man"
-	},
-}
+		}
+	]
+};
