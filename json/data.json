@@ -1,1 +1,7 @@
-{"name":"Slawa","age":"22","gender":"man"}
+"one": [
+	{
+		"name":"Slawa",
+		"age":22,
+		"gender":"man"
+	}
+]
